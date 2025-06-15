@@ -13,7 +13,7 @@ This opens a Tkinter-based window that streams your webcam with live annotations
 
 ---
 
-## 🧠 Model Info
+## Model Info
 
 - **Framework**: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - **Classes**: Handgun, Knife
@@ -24,7 +24,7 @@ This opens a Tkinter-based window that streams your webcam with live annotations
 
 ---
 
-## 🏋️‍♂️ Training
+## Training
 
 ### To retrain the model:
 
@@ -47,7 +47,7 @@ names: ['Handgun', 'Knife']
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 Install dependencies using:
 
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚙️ Model Weights
+## Model Weights
 
 The trained model is stored in:
 
@@ -69,7 +69,7 @@ If it’s missing, [download it here](https://drive.google.com/file/d/10la4Etovi
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 
 This model can be integrated into:
 - Airport or metro surveillance systems
